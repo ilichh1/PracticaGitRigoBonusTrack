@@ -17,12 +17,12 @@ Este proyecto cumple con las siguientes caracteristicas *cof cof bugs*:
 
 
 ###### Tareas pendientes
-[X] Crear el README.md
-[ ] Aprender por completo como usar Markdown
+- [X] Crear el README.md
+- [ ] Aprender por completo como usar Markdown
 
 Y para despedirme, quiero compartir la frase que alguna vez un sabio dijo...
 
 > Una clase sin memes no es una clase
-> - Rigo Bono
+> Rigo Bono
 
  :sunglasses:  :stuck_out_tongue_winking_eye:
