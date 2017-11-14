@@ -22,7 +22,7 @@ Este proyecto cumple con las siguientes caracteristicas *cof cof bugs*:
 
 Y para despedirme, quiero compartir la frase que alguna vez un sabio dijo...
 
-> Una clase sin memes no es una clase
+> Una clase sin memes no es una clase.
 > Rigo Bono
 
  :sunglasses:  :stuck_out_tongue_winking_eye:
