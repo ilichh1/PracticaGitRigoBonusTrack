@@ -2,14 +2,11 @@
 
 Este repositorio es un clasico del mundo de la programacion... **¡HOLA MUNDO!**
 
-...
-
-
 ```java
 System.out.prinlnt("Hola mundo");
 ```
 
-Este proyecto cumple con las siguientes caracteristicas *cof cof bugs*:
+Este proyecto cumple con las siguientes caracteristicas:               *cof cof bugs*
 
 - Imprimir una linea de texto en la consola
 - Saludar al usuario con un increible `Hola mundo`
